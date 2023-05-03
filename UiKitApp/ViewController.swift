@@ -42,7 +42,7 @@ class ViewController: UIViewController {
         // MARK: Text Field
         textField.backgroundColor = .white
         ///клавиатура цифр
-        //textField.keyboardType = .numberPad
+        textField.keyboardType = .numberPad
         
         // MARK: Button
         mainButton.layer.cornerRadius = 10
